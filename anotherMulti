@@ -5,4 +5,8 @@ fdowefdkfnmsdfmsdf;ksm
 
 conflit me ...sdifjsodifjj
 CHANGE STAGE
+<<<<<<< HEAD
 add mmore changes
+=======
+This is the test to merge to master
+>>>>>>> branch_4_merging
